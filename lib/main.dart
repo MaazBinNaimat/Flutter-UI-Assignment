@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ui_assig/homePage.dart';
+import 'package:ui_assig/pages/homePage.dart';
 
 
 void main(){
