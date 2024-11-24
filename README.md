@@ -1,16 +1,16 @@
-# ui_assig
+# Flutter UI Design Assignment  
 
-A new Flutter project.
+This Flutter project showcases a modern and user-friendly mobile app interface. Key features include:  
+- **Search Bar** with icons for shopping cart and filters.  
+- **Promotional Banner** with a gradient background and rounded corners.  
+- **Shortcut Icons** for quick navigation using a grid layout.  
+- **"Special for You" Section** with horizontally scrollable product cards.  
+- **"Popular Products" Section** displayed in a responsive grid format.  
+- **Bottom Navigation Bar** for seamless app navigation.  
 
-## Getting Started
+The design emphasizes clean visuals, responsive layouts, and modular code for easy customization.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### App Screenshot  
+![App Screenshot](assets/images/SS.png)
